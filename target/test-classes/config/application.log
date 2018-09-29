@@ -1,0 +1,108 @@
+[29/09/2018 14:38:06]  Executing the test : verifyPostStatus
+[29/09/2018 14:38:06]  Executing test case : Navigate to Facebook page
+[29/09/2018 14:38:06]  Navigating to the test site - Facebook ...
+[29/09/2018 14:38:18]  Asserting  title  where : Expected title = Facebook – log in or sign up
+[29/09/2018 14:38:18]  Actual title = Facebook – log in or sign up and matches with Expected title = Facebook – log in or sign up
+[29/09/2018 14:38:18]  Navigated to the test site - Facebook
+[29/09/2018 14:38:18]  Logging in to the test site - Facebook
+[29/09/2018 14:38:18]  Successfully Retrieved data from Xls File :-  Username : jhonymac@gmail.com and Password : saikia@619
+[29/09/2018 14:38:18]  Verifying whether Element : 'Email or Phone' button on Facebook login page is present
+[29/09/2018 14:38:18]  Waiting for web element to load on the page
+[29/09/2018 14:38:18]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:18]  Element : 'Email or Phone' button on Facebook login page is present
+[29/09/2018 14:38:18]  Verifying whether Element : 'Email or Phone' button on Facebook login page is present
+[29/09/2018 14:38:18]  Waiting for web element to load on the page
+[29/09/2018 14:38:18]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:18]  Element : 'Email or Phone' button on Facebook login page is present
+[29/09/2018 14:38:18]  Verifying whether Element : 'LogIn' Button is present
+[29/09/2018 14:38:18]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:19]  Element : 'LogIn' Button is present
+[29/09/2018 14:38:19]  Clearing field : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:19]  Cleared : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Sending Values in : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:19]  Inputted 'jhonymac@gmail.com' text into : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Clearing field : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:19]  Cleared : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Sending Values in : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:19]  Inputted 'saikia@619' text into : 'Email or Phone' button on Facebook login page
+[29/09/2018 14:38:19]  Clicking on : 'LogIn' Button
+[29/09/2018 14:38:19]  Waiting for web element to load on the page
+[29/09/2018 14:38:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:40]  Clicked on : 'LogIn' Button
+[29/09/2018 14:38:40]  Clicked on the element : ''LogIn' Button and new page loaded with title : (1) Facebook
+[29/09/2018 14:38:40]  Successfully logged in to the test site - Facebook
+[29/09/2018 14:38:40]  Verifying Facebook page appears
+[29/09/2018 14:38:40]  verifying the Facebook home page 
+[29/09/2018 14:38:40]  Waiting for web element to load on the page
+[29/09/2018 14:38:40]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:55]  Clicking on : 'Post' Input Box
+[29/09/2018 14:38:55]  Waiting for web element to load on the page
+[29/09/2018 14:38:55]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:55]  Clicked on : 'Post' Input Box
+[29/09/2018 14:38:55]  Clicked on the element : ''Post' Input Box and new page loaded with title : (1) Facebook
+[29/09/2018 14:38:55]  Waiting for web element to load on the page
+[29/09/2018 14:38:58]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:58]  Clearing field : 'Post' Input Box
+[29/09/2018 14:38:58]  Waiting for web element to load on the page
+[29/09/2018 14:38:58]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:38:58]  Cleared : 'Post' Input Box
+[29/09/2018 14:38:58]  Sending Values in : 'Post' Input Box
+[29/09/2018 14:39:00]  Inputted ' Hello World' text into : ''Post' Input Box'
+[29/09/2018 14:39:00]  Clicking on : 'Share' Button
+[29/09/2018 14:39:00]  Waiting for web element to load on the page
+[29/09/2018 14:39:00]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:39:00]  Clicked on : 'Share' Button
+[29/09/2018 14:39:00]  Clicked on the element : ''Share' Button and new page loaded with title : (1) Facebook
+[29/09/2018 14:39:00]  Clicking on : 'Close' Pop up
+[29/09/2018 14:39:00]  Waiting for web element to load on the page
+[29/09/2018 14:39:00]  Error came while waiting for element to appear : stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 192 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'mindfire-PC', ip: '192.168.225.28', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55837}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\mindfire\AppData\Local\Temp\scoped_dir8392_7682}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 558057297bbac60fce7a58e36de971cf
+[29/09/2018 14:39:30]  Error while clicking on - ''Close' Pop up' : no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='img sp_EMK0iFazUia sx_9246f2']"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'mindfire-PC', ip: '192.168.225.28', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55837}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\mindfire\AppData\Local\Temp\scoped_dir8392_7682}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 558057297bbac60fce7a58e36de971cf
+*** Element info: {Using=xpath, value=//*[@class='img sp_EMK0iFazUia sx_9246f2']}
+[29/09/2018 14:39:31]  Clicked on the element : ''Close' Pop up and new page loaded with title : Facebook
+[29/09/2018 14:39:36]  Logging out of the test site - Facebook
+[29/09/2018 14:39:36]  Waiting for web element to load on the page
+[29/09/2018 14:39:36]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:39:36]  Clicking on : 'Logout' DropDown
+[29/09/2018 14:39:36]  Waiting for web element to load on the page
+[29/09/2018 14:39:36]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:39:36]  Clicked on : 'Logout' DropDown
+[29/09/2018 14:39:36]  Clicked on the element : ''Logout' DropDown and new page loaded with title : Facebook
+[29/09/2018 14:39:36]  Waiting for web element to load on the page
+[29/09/2018 14:39:41]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:39:41]  Clicking on : 'Logout' Button
+[29/09/2018 14:39:41]  Waiting for web element to load on the page
+[29/09/2018 14:39:42]  Waiting ends ... Web element loaded on the page
+[29/09/2018 14:39:47]  Clicked on : 'Logout' Button
+[29/09/2018 14:39:47]  Clicked on the element : ''Logout' Button and new page loaded with title : Facebook – log in or sign up
+[29/09/2018 14:39:48]  ***Result of execution -- Pass : Successfully posted a message in facebook
+[29/09/2018 14:39:48]  Closing the driver ...
+[29/09/2018 14:39:50]  Killing ChromeDriver process
+[29/09/2018 14:39:50]  Error came while closing driver : Cannot run program "pskill": CreateProcess error=2, The system cannot find the file specified
+[29/09/2018 14:39:50]  ***********************************verifyPostStatus --- Pass
